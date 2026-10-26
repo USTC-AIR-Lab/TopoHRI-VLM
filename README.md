@@ -6,7 +6,7 @@ TopoHRI-VLM is a ROS-based multi-robot semantic search framework for initially u
 
 The current system is developed and evaluated with **two UAVs and one UGV** in Gazebo.
 
-**Human-AI Interface:**
+<h3>Human-AI Interface</h3>
 
 <table>
   <tr>
@@ -28,7 +28,32 @@ The current system is developed and evaluated with **two UAVs and one UGV** in G
   </tr>
 </table>
 
-The **videos of simulation and real-world experiment** results are available in **figures/**
+<h3>Simulation Experiments</h3>
+
+<p>
+  UAVs and a UGV collaboratively search for semantic targets and adapt
+  to a human-issued query change from a red first aid kit to a person.
+</p>
+
+<p align="center">
+  <img src="./figures/Sim_TopoHRI-VLM.png"
+       alt="TopoHRI-VLM simulation experiments"
+       width="100%">
+</p>
+
+<h3>Real-World Experiments</h3>
+
+<p>
+  Two quadruped robots collaboratively explore an indoor environment,
+  locate the initial target, and continue searching for firefighting
+  equipment after a human-issued query update.
+</p>
+
+<p align="center">
+  <img src="./figures/Real_TopoHRI-VLM.png"
+       alt="TopoHRI-VLM real-world experiments"
+       width="100%">
+</p>
   
 <div align="center">
   <table>
@@ -59,6 +84,8 @@ The **videos of simulation and real-world experiment** results are available in 
     </tr>
   </table>
 </div>
+
+The **videos of simulation and real-world experiment** results are available in **figures/**
 
 
 ## Features
