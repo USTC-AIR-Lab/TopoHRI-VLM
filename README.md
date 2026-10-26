@@ -38,20 +38,27 @@ The **videos of simulation and real-world experiment** results are available in 
              alt="Real-world experiment 1"
              height="260">
         <br>
-        <em>Real-world Experiment 1</em>
+        Real-world Experiment 1
       </td>
       <td align="center">
         <img src="./figures/Real Office-2.gif"
              alt="Real-world experiment 2"
              height="260">
         <br>
-        <em>Real-world Experiment 2</em>
+        Real-world Experiment 2
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="./figures/video_TopoHRI-VLM.gif"
+             alt="TopoHRI-VLM demonstration"
+             height="360">
+        <br>
+        Real-world Experiment 3
       </td>
     </tr>
   </table>
 </div>
-
-![TopoHRI-VLM Demonstration](./figures/video_TopoHRI-VLM.gif)
 
 
 ## Features
