@@ -51,6 +51,8 @@ The **videos of simulation and real-world experiment** results are available in 
   </table>
 </div>
 
+![TopoHRI-VLM Demonstration](./figures/video_TopoHRI-VLM.gif)
+
 
 ## Features
 
