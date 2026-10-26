@@ -54,7 +54,11 @@ The current system is developed and evaluated with **two UAVs and one UGV** in G
        alt="TopoHRI-VLM real-world experiments"
        width="100%">
 </p>
-  
+
+---
+
+The **videos of simulation and real-world experiment** results are available in **figures/**
+
 <div align="center">
   <table>
     <tr>
@@ -84,8 +88,6 @@ The current system is developed and evaluated with **two UAVs and one UGV** in G
     </tr>
   </table>
 </div>
-
-The **videos of simulation and real-world experiment** results are available in **figures/**
 
 
 ## Features
